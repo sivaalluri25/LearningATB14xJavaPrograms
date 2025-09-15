@@ -8,6 +8,7 @@ public class Lab07_Comments {
 
     public static void main(String[] args) {
         //Method Implementation
-      //  System.out.println();
+      //  System.out.println("1");
+       // System.out.println("2");
     }
 }
