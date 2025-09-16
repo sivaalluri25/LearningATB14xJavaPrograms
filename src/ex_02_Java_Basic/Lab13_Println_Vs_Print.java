@@ -9,7 +9,7 @@ public class Lab13_Println_Vs_Print
         System.out.println("Hi");
         System.out.println("BYE");
 
-        System.out.print("Hi");
+        System.out.print("Hi   ");
         System.out.print("BYE"); // it will print in same line without ln in print
     }
 }
